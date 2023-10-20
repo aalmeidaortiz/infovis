@@ -1,3 +1,3 @@
 # infovis
 
-#clase de visualización
+# clase de visualización
